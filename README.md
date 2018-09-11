@@ -20,7 +20,7 @@
 *        functon name2 () {
     
 *       let name
-    }
+        }
  <br>
   This works because it is in a other function (other scope).
 
@@ -28,11 +28,11 @@
 * The => function is a faster way to write a function for example:
 *       setTimeout(**__function__**() {
 *       __ES5 method__
-  }
+        }
 
-*       setTimeout(() **__=>__** {
-*       __ES6 method__
-  }
+*       setTimeout(() => {
+*       ES6 method
+        }
 * The arrow function also doesn't have his own scope
 
 # Scope
