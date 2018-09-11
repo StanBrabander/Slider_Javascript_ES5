@@ -1,12 +1,12 @@
 'use strict';
 
 
-var currentImage = 0; // start point
-var images = [];
-var time = 1000;      // time in milliseconds
-var isPaused = false;
-var pause = document.querySelector('.playPause');
-var interval = setInterval(function (){
+let currentImage = 0; // start point
+const images = [];
+const time = 1000;      // time in milliseconds
+let isPaused = false;
+const pause = document.querySelector('.playPause');
+let interval = setInterval(() => {
     nextImage();
     changeImg();
 }, time);
@@ -74,6 +74,3 @@ function playPause(){
         }, time);
     }
 }
-
-
-
