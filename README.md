@@ -38,3 +38,8 @@
 * A scope can use code outside his body.
 * But code outside the SCOPE can't call the SCOPE function
 * Like a spy in your door: you can see them but they cant see you.
+
+# Improvements
+
+* I didn't knew what the __const__ meant and what you can and what you couldn't change.
+* When to use the __=>__ function.
