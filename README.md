@@ -14,24 +14,24 @@
 * let is a variable.
 * With let you can add properties you can remove properties of you can eddit, but you can't make the same property again.
 
-*   let __name__ = "TEXT";
-*   let name = "TEXT"; = __error__ _identifier 'TEXT' already been declared_
+*       let __name__ = "TEXT";
+*       let name = "TEXT"; = __error__ _identifier 'TEXT' already been declared_
 <br>
-    functon name2 () {
+        functon name2 () {
     <br>
-  let name
+        let name
     }
  <br>
   This works because it is in a other function (other scope).
 
 # => arrow
 * The => function is a faster way to write a function for example:
-* setTimeout(**__function__**() {
-*  __ES5 method__
+*       setTimeout(**__function__**() {
+*       __ES5 method__
 * }
 *
-* setTimeout(() **__=>__** {
-*  __ES6 method__
+*       setTimeout(() **__=>__** {
+*       __ES6 method__
 * }
 * The arrow function also doesn't have his own scope
 
