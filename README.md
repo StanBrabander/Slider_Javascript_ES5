@@ -8,7 +8,7 @@
 *          property = '.one'
 *          property = '.two'
 *          property = '.three'
-* } 
+    } 
 
 # let
 * let is a variable.
@@ -19,7 +19,7 @@
 <br>
 *   functon __name2__ (){
 *   let __name__
-*   }
+    }
   __This works__
 
 # => arrow
