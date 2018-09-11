@@ -16,10 +16,10 @@
 
 *       let __name__ = "TEXT";
 *       let name = "TEXT"; = __error__ _identifier 'TEXT' already been declared_
-<br>
-        functon name2 () {
+
+*        functon name2 () {
     <br>
-        let name
+*       let name
     }
  <br>
   This works because it is in a other function (other scope).
