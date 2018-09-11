@@ -15,9 +15,9 @@
 * With let you can add properties you can remove properties of you can eddit, but you can't make the same property again.
 
 * let __name__ = "TEXT";
-------------------------------
+
 * let name = "TEXT"; = __error__ _identifier 'TEXT' already been declared_
-------------------------------
+
 * functon __name2__ (){
 * let __name__
 * }
