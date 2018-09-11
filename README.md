@@ -17,12 +17,13 @@
 *   let __name__ = "TEXT";
 *   let name = "TEXT"; = __error__ _identifier 'TEXT' already been declared_
 <br>
-    functon **name2** () {
+    functon name2 () {
     <br>
-  let **name**
+  let 
+  **name**
     }
  <br>
-  __This works__
+  **This works**
 
 # => arrow
 * The => function is a faster way to write a function for example:
