@@ -41,5 +41,5 @@
 
 # Improvements
 
-* I didn't knew what the __const__ meant and what you can and what you couldn't change.
+* I didn't knew what the __const__ meant, and what you can and what you can't change/edit.
 * When to use the __=>__ function.
