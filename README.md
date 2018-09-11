@@ -4,11 +4,12 @@
 # const
 * const is a variable. 
 * With const you can make one property wich you can change/add/edit or remove, but you can't rewrite the __const__.
-* const  __name__ {
+* const  __name__ 
+*           {
 *          property = '.one'
 *          property = '.two'
 *          property = '.three'
-    } 
+*          } 
 
 # let
 * let is a variable.
