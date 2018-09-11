@@ -18,7 +18,7 @@
 *       let name = "TEXT"; = __error__ _identifier 'TEXT' already been declared_
 
 *        functon name2 () {
-    <br>
+    
 *       let name
     }
  <br>
