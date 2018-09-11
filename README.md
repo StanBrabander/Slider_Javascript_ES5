@@ -19,11 +19,10 @@
 <br>
     functon name2 () {
     <br>
-  let 
-  **name**
+  let name
     }
  <br>
-  **This works**
+  This works because it is in a other function (other scope).
 
 # => arrow
 * The => function is a faster way to write a function for example:
