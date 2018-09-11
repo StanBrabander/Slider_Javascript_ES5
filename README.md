@@ -28,11 +28,11 @@
 * The => function is a faster way to write a function for example:
 *       setTimeout(**__function__**() {
 *       __ES5 method__
-* }
-*
+  }
+
 *       setTimeout(() **__=>__** {
 *       __ES6 method__
-* }
+  }
 * The arrow function also doesn't have his own scope
 
 # Scope
