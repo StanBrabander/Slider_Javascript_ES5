@@ -14,14 +14,13 @@
 * let is a variable.
 * With let you can add properties you can remove properties of you can eddit, but you can't make the same property again.
 
-* let __name__ = "TEXT";
-* let name = "TEXT"; = __error__ _identifier 'TEXT' already been declared_
+*   let __name__ = "TEXT";
+*   let name = "TEXT"; = __error__ _identifier 'TEXT' already been declared_
 <br>
-* functon __name2__ (){
-* let __name__
-* }
-*
-__This works__
+*   functon __name2__ (){
+*   let __name__
+*   }
+  __This works__
 
 # => arrow
 * The => function is a faster way to write a function for example:
