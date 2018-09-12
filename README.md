@@ -16,7 +16,7 @@
 * With let you can add properties you can remove properties of you can eddit, but you can't make the same property again.
 
 *       let __name__ = "TEXT";
-*       let name = "TEXT"; = __error__ _identifier 'TEXT' already been declared_
+*       let name = "TEXT"; = error identifier 'TEXT' already been declared
 
 *        functon name2 () {
     
@@ -27,8 +27,8 @@
 
 # => arrow
 * The => function is a faster way to write a function for example:
-*       setTimeout(**__function__**() {
-*       __ES5 method__
+*       setTimeout(function() {
+*       ES5 method
         }
 
 *       setTimeout(() => {
